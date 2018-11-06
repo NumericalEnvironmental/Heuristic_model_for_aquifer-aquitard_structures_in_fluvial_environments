@@ -1,0 +1,5 @@
+phi	60
+theta	110
+yIntercept	500
+d	10
+logK	-2
